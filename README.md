@@ -61,13 +61,13 @@ El sistema está dividido en roles de usuario, cada uno con acceso a la informac
 ## Demo visual
 Capturas de ejemplo del flujo:  
 
-![Login](demo/screenshots/login.png)  
-![Dashboard](demo/screenshots/dashboard.png)  
+![Login](demo/screenshots/login.jpg)  
+![Dashboard](demo/screenshots/dashboard.jpg)  
 ![ProfileDrawer](demo/screenshots/profileDrawer.jpg)  
 ![Tracking](demo/screenshots/tracking.jpg)  
-![Tracking2](demo/screenshots/tracking2.png)  
-![SkeletonOrderTracker](demo/screenshots/skeletonOrderTracker.png)  
-![OrderTracker](demo/screenshots/orderTracker.png)  
-![OrderDetail](demo/screenshots/orderDetail.png)  
+![Tracking2](demo/screenshots/tracking2.jpg)  
+![SkeletonOrderTracker](demo/screenshots/skeletonOrderTracker.jpg)  
+![OrderTracker](demo/screenshots/orderTracker.jpg)  
+![OrderDetail](demo/screenshots/orderDetail.jpg)  
 ![LiquidaciondesDetail](demo/screenshots/liquidacionesDetail.jpg)  
 ![DragAndDrop](demo/screenshots/dragAndDrop.jpg)  
